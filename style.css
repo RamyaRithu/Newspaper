@@ -1,0 +1,46 @@
+.tittle{
+
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cardposition{
+    
+        margin: auto; 
+        margin-top: 50px; 
+       
+    
+}
+.card {
+    background-color:aliceblue;
+   
+    border-radius: 5px;
+    
+    padding: 20px;
+}
+.sub{
+    height: 20px;
+    width: 850px;
+   background-color:aqua;
+   margin-left: 5px;
+   margin-top: 10px;
+   font-style: italic;
+   
+}
+.cardstyle{
+    margin-top: 10px;
+    border:none;
+}
+.newscroed{
+    text-align: center;
+    border-style: hidden;
+    background-color: lightblue;
+    
+}
+.tab{
+    text-align:justify;
+    word-spacing:-2px;
+}
+td{
+    font-size: 13px;
+    border: none;
+}
